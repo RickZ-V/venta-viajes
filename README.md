@@ -1,26 +1,3 @@
-## Link al curso completo de Javascript en Youtube:
-[VIDEO CURSO GRATIS COMPLETO: JavaScript Desde Cero por Sergie Code](https://youtu.be/N8Xt5rP_DUo)
-
-
-# Tutorial de Aplicación de Venta de Viajes en JavaScript
-
-Link para ver resultado: [VENTA VIAJES FINALIZADO](https://venta-viajes-curso-javascript.netlify.app/)
-
-Este es un tutorial que te guiará a través del proceso de creación de una aplicación de venta de viajes utilizando JavaScript. La aplicación mostrará información sobre diferentes ciudades turísticas y sus precios asociados.
-
-## Requisitos previos
-
--   Conocimientos básicos de HTML y CSS.
--   Un entorno de desarrollo para escribir y ejecutar código JavaScript.
-
-## Configuración inicial
-
-1.  Clona o descarga los archivos HTML y CSS necesarios para este proyecto desde el repositorio en GitHub.
-
-## Funcionamiento del código JavaScript
-
-El código JavaScript proporcionado se encarga de actualizar la información mostrada en la página web cuando se hace clic en un enlace de ciudad.
-
 ### Importación de datos de las ciudades
 
 Las variables `barcelona`, `roma`, `paris` y `londres` se importan desde el archivo `ciudades.js`, que contiene la información de cada ciudad. Asegúrate de que este archivo esté disponible en el repositorio junto con el código JavaScript.
@@ -51,7 +28,3 @@ La función `obtenerContenido` toma el texto del enlace como parámetro y devuel
 ## Personalización del contenido
 
 Puedes personalizar el contenido de las ciudades modificando el archivo `ciudades.js`. Cada ciudad es representada por un objeto con propiedades como `titulo`, `subtitulo`, `parrafo` y `precio`.
-
-## Conclusiones
-
-Con este tutorial, has aprendido a crear una aplicación de venta de viajes utilizando JavaScript. Ahora puedes personalizar el contenido y expandir la funcionalidad de la aplicación según tus necesidades. ¡Diviértete programando!
